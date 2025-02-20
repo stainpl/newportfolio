@@ -42,7 +42,7 @@ export default function Works() {
       title: "Amazing Portfolio",
       image: "/silaspage.png",
       technologies: ["HTML", "CSS", "Bootstrap"],
-      url: "https://silas.vercel.app",
+      url: "https://silaspl.vercel.app",
     },
   ];
 
